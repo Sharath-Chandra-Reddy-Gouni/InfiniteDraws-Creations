@@ -13,7 +13,7 @@ namespace InfiniteDraws_Creations.Models
                 serviceProvider.GetRequiredService<
                     DbContextOptions<InfiniteDraws_CreationsContext>>()))
             {
-                // Look for any movies.
+               
                 if (context.Drawer.Any())
                 {
                     return;   // DB has been seeded
