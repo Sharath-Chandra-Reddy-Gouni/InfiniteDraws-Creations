@@ -5,3 +5,6 @@ some research about the topic to find certain entities that are suitable for the
 project name as "InfiniteDraws Creation"We found a list of entities from which we have discussed and selected 
 Types, Drawer Material, Color, Price, Rating and Reviews. Then we created just a sample project with title and
 ran the code. It was successfully executed with welcome page.
+
+2024-02-20
+1200
