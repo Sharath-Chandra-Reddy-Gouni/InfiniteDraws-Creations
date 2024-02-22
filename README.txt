@@ -1,4 +1,11 @@
-﻿TASK 1:
+﻿Group Name: OMICRON
+Course code:CYB206
+Group Members: Sharath Chandra Reddy Gouni
+               Shreyas Hasmukh Patel
+               Parvinder Singh
+
+
+TASK 1:
 2024-02-15 (Thrusday) (1400)
 We were given our topic "Drawers" on which we need to create an application. Then we three as a group has done
 some research about the topic to find certain entities that are suitable for the topic.We have decided our 
@@ -36,6 +43,8 @@ from the automatic code that was generated during the migration process, we will
 >Initial Migration
 I Opened the Package Manager Console (PMC) from Tools > NuGet Package Manager > Package Manager Console.
 Run the app.
+Migration file: InfiniteDraws_CreationsContextModelSnapshot.cs
+
 
 TASK 5: Work with a Database
 2024-02-18 (Sunday) (1700)
@@ -82,8 +91,15 @@ We worked on single system because when we cloned the repository, the other syst
 giving us https error. We able to find out the solution in the end. 
 We have to send collaboration request to partner github ID and after accepting the request, start cloning the repository, and after that, migration will be executed on each system to run the code.
 
+Task Division:
+we workked on single system from sharath's laptop and then cloned the repository, We worked together till we able to clone the Github respository.
+2024-02-21 (1800)
+Sharath completed the task in which he placed the video on welcome page as a logo of the company.
+Parvinder and shreyas create the README file and done update in timely manner.
 
-
+2024-02-22 (1300)
+Parvinder updated the SeedData in which he added more items with the help of their team-mates.
+Syreyas again update the README file.
 
 
 
