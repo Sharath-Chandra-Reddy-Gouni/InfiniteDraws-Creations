@@ -10,7 +10,7 @@ TASK 2: Add a Controller
 2024-02-18 (Sunday) (1502)
 
 HelloWorldController is the name we will give to the controllers that we are going to add to the project as part of this job. 
-With the help of his laptop, Sharath initiated the project, and Shreyas and Parvindor are serving as his navigators thus far. 
+With the help of his laptop, Sharath initiated the project, and Shreyas and Parvinder are serving as his navigators thus far. 
 After that, we were able to modify the welcome method in the HelloWordControoler, and then we moved on to the subsequent procedure. 
 
 TASK 3: Add a view
@@ -80,7 +80,7 @@ The user receives immediate feedback through error messages when attempting to s
 KEY LEARNING:
 We worked on single system because when we cloned the repository, the other system was unable to run the code,
 giving us https error. We able to find out the solution in the end. 
-We have to login to the common github while cloning the repository, and after that, migration will be executed on each system to run the code.
+We have to send collaboration request to partner github ID and after accepting the request, start cloning the repository, and after that, migration will be executed on each system to run the code.
 
 
 
