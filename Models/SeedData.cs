@@ -25,7 +25,7 @@ namespace InfiniteDraws_Creations.Models
                         DrawerMaterial = "Wood",
                         Color = "Brown",
                         Price = 150M,
-                        Rating = 5,
+                        Rating = "4",
                         Reviews= "Excellent Product"
                     },
                     new Drawer
@@ -34,7 +34,7 @@ namespace InfiniteDraws_Creations.Models
                         DrawerMaterial = "Plastic",
                         Color = "Blue",
                         Price = 90M,
-                        Rating = 4,
+                        Rating = "4",
                         Reviews = "Good Material"
                     },
                     new Drawer
@@ -43,7 +43,7 @@ namespace InfiniteDraws_Creations.Models
                         DrawerMaterial = "Metal",
                         Color = "Black",
                         Price = 130M,
-                        Rating = 3,
+                        Rating = "3",
                         Reviews = "Nice Build"
                     },
                     new Drawer
@@ -52,7 +52,7 @@ namespace InfiniteDraws_Creations.Models
                         DrawerMaterial = "Composite Material",
                         Color = "Grey",
                         Price = 50M,
-                        Rating = 5,
+                        Rating = "5",
                         Reviews = "Need to improve it's quality"
                     },
                     new Drawer
@@ -61,7 +61,7 @@ namespace InfiniteDraws_Creations.Models
                         DrawerMaterial = "Bamboo",
                         Color = "Blue",
                         Price = 40M,
-                        Rating = 4,
+                        Rating = "4",
                         Reviews = "Eco-Friendly Product"
                     },
                     new Drawer
@@ -70,7 +70,7 @@ namespace InfiniteDraws_Creations.Models
                         DrawerMaterial = "Fabric",
                         Color = "White",
                         Price = 30M,
-                        Rating = 4,
+                        Rating = "4",
                         Reviews = "Quality is good"
                     },
                     new Drawer
@@ -79,7 +79,7 @@ namespace InfiniteDraws_Creations.Models
                         DrawerMaterial = "Wood",
                         Color = "Green",
                         Price = 80M,
-                        Rating = 5,
+                        Rating = "4",
                         Reviews = "Easy mobility"
                     },
                     new Drawer
@@ -88,7 +88,7 @@ namespace InfiniteDraws_Creations.Models
                         DrawerMaterial = "Plywood",
                         Color = "Red",
                         Price = 60M,
-                        Rating = 4,
+                        Rating = "4",
                         Reviews = "Durable product"
                     },
                     new Drawer
@@ -97,7 +97,7 @@ namespace InfiniteDraws_Creations.Models
                         DrawerMaterial = "Steel",
                         Color = "Black",
                         Price = 140M,
-                        Rating = 5,
+                        Rating = "5",
                         Reviews = "Easy to fit"
                     },
                     new Drawer
@@ -106,7 +106,7 @@ namespace InfiniteDraws_Creations.Models
                         DrawerMaterial = "Composite Material",
                         Color = "Silver",
                         Price = 90M,
-                        Rating = 4,
+                        Rating = "4",
                         Reviews = "Strong build"
                     }
                 );
