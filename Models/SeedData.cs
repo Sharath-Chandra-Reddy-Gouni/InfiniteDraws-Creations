@@ -63,6 +63,51 @@ namespace InfiniteDraws_Creations.Models
                         Price = 40M,
                         Rating = "4",
                         Reviews = "Eco-Friendly Product"
+                    },
+                    new Drawer
+                    {
+                        Type = "Pocker Drawers",
+                        DrawerMaterial = "Fabric",
+                        Color = "White",
+                        Price = 30M,
+                        Rating = "4.5",
+                        Reviews = "Quality is good"
+                    },
+                    new Drawer
+                    {
+                        Type = "Rolling Drawers",
+                        DrawerMaterial = "Wood",
+                        Color = "Green",
+                        Price = 80M,
+                        Rating = "5",
+                        Reviews = "Easy mobility"
+                    },
+                    new Drawer
+                    {
+                        Type = "Kitchen Drawers",
+                        DrawerMaterial = "Plywood",
+                        Color = "Red",
+                        Price = 60M,
+                        Rating = "4",
+                        Reviews = "Durable product"
+                    },
+                    new Drawer
+                    {
+                        Type = "Secret Drawers",
+                        DrawerMaterial = "Steel",
+                        Color = "Black",
+                        Price = 140M,
+                        Rating = "5",
+                        Reviews = "Easy to fit"
+                    },
+                    new Drawer
+                    {
+                        Type = "Dish Drawers",
+                        DrawerMaterial = "Composite Material",
+                        Color = "Silver",
+                        Price = 90M,
+                        Rating = "4",
+                        Reviews = "Strong build"
                     }
                 );
                 context.SaveChanges();
