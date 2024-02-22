@@ -32,7 +32,7 @@ This is done in order to show the privacy policy on the output website. Finally,
 Following that, we added a new item to the views/HelloWorld folder, where it was given the name welcome.cshtml.
 
 TASK 4: Add a Model
-2024-02-18 (Sunday) (1630)
+2024-02-20 (Tuesday) (1630)
 
 During this task, we added a class to the models folder that was called Drawer.cs. 
 We also updated the code for adding the drawer type, material, price, rating, and reviews. 
@@ -47,7 +47,7 @@ Migration file: 20240220210753_InitialCreate.cs
 
 
 TASK 5: Work with a Database
-2024-02-18 (Sunday) (1700)
+2024-02-20 (Tuesday) (1700)
 
 In this task, we began by examining the database using the SQL Server Object Explorer. 
 This allowed us to get the table that we had constructed in the previous stage, which had information 
@@ -56,7 +56,7 @@ After that, we examined and altered a few things in order to include information
 Finally, we adjusted the program.cs file, and the result was that we were able to get the desired output. 
 
 TASK 6: Controller actions and views
-2024-02-18 (Sunday) (1800)
+2024-02-20 (Tuesday) (1800)
 
 During this Task, we reviewed the Drawer.cs file that was located in the models folder. 
 After that, we checked the output to ensure that we were able to successfully modify the information associated with the drawers. 
@@ -74,14 +74,14 @@ Finally, we updated the Index method in the DrawersController.cs file, as well a
 
 Task 8
 # Add a new field to an ASP.NET Core MVC app
-2024-02-20 (1500)
+2024-02-20 (Tuesday) (1500)
 => In this section, it focuses on enhancing the MVC Movie App by incorporating a new field,
 'Rating', using Entity Framework Code First Migrations. This process involves adding the field to the model,
 updating the database schema, and ensuring synchronization between the model and the database.
 
 Task 9
 # Add validation to an ASP.NET Core MVC app
-2024-02-20 (1530)
+2024-02-20 (Tuesday) (1530)
 => It demonstrates the seamless integration of validation rules into the UI. 
 Both client-side and server-side validation are automatically enforced. 
 The user receives immediate feedback through error messages when attempting to submit invalid data.
