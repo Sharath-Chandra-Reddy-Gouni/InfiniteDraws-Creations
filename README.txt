@@ -43,7 +43,7 @@ from the automatic code that was generated during the migration process, we will
 >Initial Migration
 I Opened the Package Manager Console (PMC) from Tools > NuGet Package Manager > Package Manager Console.
 Run the app.
-Migration file: InfiniteDraws_CreationsContextModelSnapshot.cs
+Migration file: 20240220210753_InitialCreate.cs
 
 
 TASK 5: Work with a Database
