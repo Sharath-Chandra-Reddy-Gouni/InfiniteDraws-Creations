@@ -15,5 +15,6 @@ namespace InfiniteDraws_Creations.Data
         }
 
         public DbSet<InfiniteDraws_Creations.Models.Drawer> Drawer { get; set; } = default!;
+        public DbSet<InfiniteDraws_Creations.Models.User> Users { get; set; }
     }
 }

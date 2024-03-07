@@ -43,6 +43,8 @@ from the automatic code that was generated during the migration process, we will
 >Initial Migration
 I Opened the Package Manager Console (PMC) from Tools > NuGet Package Manager > Package Manager Console.
 Run the app.
+
+Migration file: InfiniteDraws_CreationsContextModelSnapshot.cs
 Migration file: 20240220210753_InitialCreate.cs
 
 
@@ -53,7 +55,7 @@ In this task, we began by examining the database using the SQL Server Object Exp
 This allowed us to get the table that we had constructed in the previous stage, which had information 
 about the drawer types, material, price, rating, and reviews. And then we built a new class and gave it the name SeedData in the models folder. 
 After that, we examined and altered a few things in order to include information about drawers on the output webpage. 
-Finally, we adjusted the program.cs file, and the result was that we were able to get the desired output. 
+Finally, we adjusted the program.cs file, and the result was that we were able to get the desired output. 
 
 TASK 6: Controller actions and views
 2024-02-20 (Tuesday) (1800)
@@ -99,7 +101,6 @@ Parvinder and shreyas create the README file and done update in timely manner.
 
 2024-02-22 (1300)
 Parvinder updated the SeedData in which he added more items with the help of their team-mates.
-Syreyas again update the README file.
 
-
+Syreyas again update the README file butat the end he facing issue while pushing the update. So, Parvinder push it
 
