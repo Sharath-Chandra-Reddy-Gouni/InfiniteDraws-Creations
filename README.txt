@@ -6,21 +6,21 @@ Group Members: Sharath Chandra Reddy Gouni
 
 
 TASK 1:
-2024-02-15 (Thrusday) (1400)
+2024-02-15 (Thrusday) (1400) Sharath, Parvinder, shreyas
 We were given our topic "Drawers" on which we need to create an application. Then we three as a group has done
 some research about the topic to find certain entities that are suitable for the topic.We have decided our 
 project name as "InfiniteDraws Creation"We found a list of entities from which we have discussed and selected 
 Types, Drawer Material, Color, Price, Rating and Reviews. Then we created just a sample project with title and
 ran the code. It was successfully executed with welcome page.
  
-TASK 2: Add a Controller
+TASK 2: Add a Controller  Sharath, Parvinder, Shreyas
 2024-02-18 (Sunday) (1502)
 
 HelloWorldController is the name we will give to the controllers that we are going to add to the project as part of this job. 
 With the help of his laptop, Sharath initiated the project, and Shreyas and Parvinder are serving as his navigators thus far. 
 After that, we were able to modify the welcome method in the HelloWordControoler, and then we moved on to the subsequent procedure. 
 
-TASK 3: Add a view
+TASK 3: Add a view  Sharath, Parvinder, Shreyas
 2024-02-18 (Sunday) (1530)
 
 The index method of the HelloWorldController was modified during this task. 
@@ -31,7 +31,7 @@ Subsequently, we modify the layout file in views/shared by modifying the title, 
 This is done in order to show the privacy policy on the output website. Finally, we modify the index.cshtml file. 
 Following that, we added a new item to the views/HelloWorld folder, where it was given the name welcome.cshtml.
 
-TASK 4: Add a Model
+TASK 4: Add a Model  Sharath, Parvinder, Shreyas
 2024-02-20 (Tuesday) (1630)
 
 During this task, we added a class to the models folder that was called Drawer.cs. 
@@ -48,7 +48,7 @@ Migration file: InfiniteDraws_CreationsContextModelSnapshot.cs
 Migration file: 20240220210753_InitialCreate.cs
 
 
-TASK 5: Work with a Database
+TASK 5: Work with a Database Sharath, Parvinder, Shreyas 
 2024-02-20 (Tuesday) (1700)
 
 In this task, we began by examining the database using the SQL Server Object Explorer. 
@@ -57,14 +57,14 @@ about the drawer types, material, price, rating, and reviews. And then we built 
 After that, we examined and altered a few things in order to include information about drawers on the output webpage. 
 Finally, we adjusted the program.cs file, and the result was that we were able to get the desired output. 
 
-TASK 6: Controller actions and views
+TASK 6: Controller actions and views Sharath, Parvinder
 2024-02-20 (Tuesday) (1800)
 
 During this Task, we reviewed the Drawer.cs file that was located in the models folder. 
 After that, we checked the output to ensure that we were able to successfully modify the information associated with the drawers. 
 Additionally, we made sure that we were able to edit the information from the output website.
 
-TASK 7: Add search
+TASK 7: Add search Sharath, Parvinder, Shreyas
 2024-02-20 (Tuesday) (1402)
 
 The index method that can be found inside the controllers>MovieController was modified as part of this task. 
@@ -74,14 +74,14 @@ Following that, we added the DrawerTypeViewModel class to the Models folder.
 This class will include a list of drawers, as well as a Selectlist that includes the list of types and the searchstring. 
 Finally, we updated the Index method in the DrawersController.cs file, as well as the Index.cshtml file that can be found in the Views>Movies folder.  
 
-Task 8
+Task 8 Sharath, Parvinder, Shreyas
 # Add a new field to an ASP.NET Core MVC app
 2024-02-20 (Tuesday) (1500)
 => In this section, it focuses on enhancing the MVC Movie App by incorporating a new field,
 'Rating', using Entity Framework Code First Migrations. This process involves adding the field to the model,
 updating the database schema, and ensuring synchronization between the model and the database.
 
-Task 9
+Task 9 Sharath, Parvinder
 # Add validation to an ASP.NET Core MVC app
 2024-02-20 (Tuesday) (1530)
 => It demonstrates the seamless integration of validation rules into the UI. 
@@ -99,8 +99,13 @@ we workked on single system from sharath's laptop and then cloned the repository
 Sharath completed the task in which he placed the video on welcome page as a logo of the company.
 Parvinder and shreyas create the README file and done update in timely manner.
 
-2024-02-22 (1300)
+2024-02-22 (1300)Parvinder, Shreyas
 Parvinder updated the SeedData in which he added more items with the help of their team-mates.
 
 Syreyas again update the README file butat the end he facing issue while pushing the update. So, Parvinder push it
-
+ 
+2024-03-06 (1600) Parvinder, Shreyas
+# Add a authentication and authorization
+For this task first we added the 2 roles in the program Admin and user and then run the login process and we get desired output. In this process the admin can made changes like create, edit and dekete the item
+whereas user can only view the items but can't do any modifications to the items available in the table.
+We have provided proper authentication and authorization to the web application named InfiniteDraws_Creations.
