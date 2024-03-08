@@ -31,10 +31,10 @@ jobs:
       - name: dotnet install ef
         run: dotnet tool install -g dotnet-ef --version 8.0.2
 
-      -name: dotnet bundle migration
+      - name: dotnet bundle migration
         run: dotnet ef migrations bundle --runtime linux-x64 -p "InfiniteDraws Creations.csproj" --context InfiniteDraws_CreationsContext -o ${{env.DOTNET_ROOT}}/myapp/migrate 
 
-      -name: dotnet bundle migration-user
+      - name: dotnet bundle migration-user
         run: dotnet ef migrations bundle --runtime linux-x64 -p "InfiniteDraws Creations.csproj" --context ApplicationDbContext -o ${{env.DOTNET_ROOT}}/myapp/migrate-users 
 
       - name: Upload artifact for deployment job
