@@ -106,6 +106,14 @@ Syreyas again update the README file butat the end he facing issue while pushing
  
 2024-03-06 (1600) Parvinder, Shreyas
 # Add a authentication and authorization
-For this task first we added the 2 roles in the program Admin and user and then run the login process and we get desired output. In this process the admin can made changes like create, edit and dekete the item
+For this task first we added the 2 roles in the program Admin and user and then run the login process and we get desired output. In this process the admin can made changes like create, edit and delete the item
 whereas user can only view the items but can't do any modifications to the items available in the table.
 We have provided proper authentication and authorization to the web application named InfiniteDraws_Creations.
+
+Admin account 
+Username: admin@admin.com
+Password: InfiniteDraws!1
+
+User account 
+Username: omicron@gmail.com
+Password: Stclair@123
